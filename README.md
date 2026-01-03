@@ -19,6 +19,8 @@ Kontributi im(Learti) ne kete projekt:
 
 
 Kontributi im (Art Panxhaj )
+
+
 Përshkrimi i Modulit: Kam implementuar logjikën e rezervimit dhe konfirmimit të biletave duke përdorur një Finit State Machine (FSM) të thjeshtëzuar. Përmes një enum, kam siguruar që procesi të ndjekë hapat strikt: Zgjedhje → Rezervim → Konfirmim.
 
 Pikat Kyçe:
