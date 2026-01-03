@@ -30,3 +30,7 @@ Menaxhimi i Statusit: Përdorimi i enum për të parandaluar konfirmimin pa reze
 Validimi: Mbrojtje nga gabimet si rezervimi i dyfishtë ose harresa e përzgjedhjes së filmit.
 
 Interaktiviteti: Komunikim në kohë reale me përdoruesin për gjendjen e porosisë së tij.
+
+ Teknologjitë e përdorura
+- C++
+- Git & GitHub
