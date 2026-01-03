@@ -13,3 +13,6 @@ Funksionet kryesore
 - Leart – Funksionet e rezervimit
 - Arti – Funksionet e menaxhimit të ulëseve
 - 
+Kontributi im(Learti) ne kete projekt:
+- Shtova funksionin `showMovies()` që shfaq listën e filmave dhe oraret e shfaqjeve në kinema.
+- Përdoruesi mund të zgjedhë një film nga lista dhe të shohë konfirmimin e zgjedhjes.
